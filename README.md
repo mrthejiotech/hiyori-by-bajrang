@@ -1,29 +1,29 @@
 <p align="center">
    <a href= "https://github.com/Pika4O4">
  
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=A020F0&lines=࿐𝐖𝐞𝐥𝐜𝐨𝐦𝐞+𝐓𝐨+𝒜𝓃𝓎𝒶𝕻𝖎𝕶𝕬༒4O4࿐+❤️)]
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=A020F0&lines=Hiyori By Bajrang+❤️)]
    
 </p>
-<h1 align="center"> Anya by Pika❤️
+<h1 align="center"> Hiyori by Bajrang❤️
 </h1>
 <p align="center"> 
-  Hello Darling ✨, I am "Anya" a WhatsApp bot made by Pika to do everything that is possible on WhatsApp based on WhatsApp Multi Device(MD) Support.
+  Hello Darling ✨, I am "Hiyori" a WhatsApp bot made by Pika to do everything that is possible on WhatsApp based on WhatsApp Multi Device(MD) Support.
 
 <p align="center">
-  <a href="https://github.com/Pika4O4/Anya-pika/fork">
+  <a href="https://github.com//Anya-pika/fork">
     <img src="https://img.shields.io/github/forks/Pika4O4/Anya-pika?label=Fork&style=social">
     
     
-  <a href="https://github.com/Pika4O4/Anya/stargazers">
+  <a href="https://github.com/PikaBotz/Anya-pika-MD-v2">
     <img src="https://img.shields.io/github/stars/Pika4O4/Anya-Pika?style=social">
   </a>
 
 <p align="center">
-  <a href="https://github.com/FantoX001/Miku-MD">
+  <a href="https://github.com/Bajrang11yt/hiyori-by-bajrang">
     <img src="https://visitor-badge.glitch.me/badge?page_id=https://github.com/FantoX001/Miku-MD.visitor-badge&left_text=Total%20Repo%20Visits">
     
     
-<a href="https://github.com/FantoX001">
+<a href="https://github.com/bajrang11yt">
     <img src="(https://visitor-badge.glitch.me/badge?page_id=https://github.com/FantoX001/Shikimori-MD.visitor-badge&left_text=Total%20Repo%20Visitors)">
   </a>
 </br>
@@ -50,13 +50,13 @@
 ✧ The main motto of this project is to provide Beginner Devs a base without any limitations 😊.
 ✧ Check "Credits" section and Support Them too.
 
--regards FantoX001
+-regards Bajrang11yt
 ```
 </br>
 
 ## ✧✧✧ Video tutorial for Heroku Deploy:
 
-<a href="https://youtu.be/fZdM7Ahb4JE"><img src="https://i.ibb.co/71mYRh4/116-1161192-podcast-subscribe-listen-button-youtube-sign-hd-png.png" alt="Watch tutorial on YouTube" border="0"  width="160"></a>
+<a href="#"><img src="https://i.ibb.co/71mYRh4/116-1161192-podcast-subscribe-listen-button-youtube-sign-hd-png.png" alt="Watch tutorial on YouTube" border="0"  width="160"></a>
 
 Here's the Video Tuturial for Deploying and Hosting Miku Bot on Heroku.
 
@@ -94,10 +94,7 @@ heroku/nodejs
 ```
 
 
-## ✧✧✧ Join My Whatsapp Group for Support
 
-<a href="https://chat.whatsapp.com/JcBzjRIxM5UHfuJbt0KrWt"><img src="https://img.shields.io/badge/Join Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-</a>
 
 ## ✧✧✧ CMD Deployment Method
 ```
@@ -160,7 +157,7 @@ npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
 
 
 ## ✧ Help Me:
-- [`Follow`](https://github.com/FantoX001/#follow) me on GitHub to make me feel motivated.
+- [`Follow`](https://github.com/bajrang11yt/#follow) me on GitHub to make me feel motivated.
 - Give my project a ⭐ if you liked it.
 
      
