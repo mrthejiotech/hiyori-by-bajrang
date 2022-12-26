@@ -4986,10 +4986,10 @@ case 'help': case 'h': case 'menu': case 'allmenu': case 'listmenu':{
 ╭╼━᚜ 𝓐𝓷𝔂𝓪 𝓱𝔂 𝓟𝓲𝓴𝓪 ᚛━╾╮
 │                                      ❒
 🔥 *My prefix*       : ( - )
-🔥 *My name*       : ${global.BotName}
+🔥 *My name*       : hiyori
 🔥 *User name*    : ${pushname}
 🔥 *Owner name* : ${global.OwnerName}
-🔥 *Owner no.*     : http://wa.me//${global.Owner}
+🔥 *Owner no.*     : http://wa.me/+918279975767
 🔥 *Group name*  : ${groupMetadata.subject}
 │                                      ❒
 ╰╼━━━━━━━━━━━━╾╯
@@ -5238,7 +5238,7 @@ case 'help': case 'h': case 'menu': case 'allmenu': case 'listmenu':{
 
 
  『  𝓐𝓷𝔂𝓪 𝓱𝔂 𝓟𝓲𝓴𝓪  』
- Powered by : *Pika❤️*
+ Powered by : *${pushname}*
  Using by       : *${pushname}*
  
 
