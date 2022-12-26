@@ -7,13 +7,13 @@ global.autoReadAll = false
 global.antitags = true
 
 
-global.Owner = ['918811074852']
-global.OwnerNumber = ['918811074852']
-global.ownertag = ['918811074852']
+global.Owner = ['918279975767','918961331275','916372766226']
+global.OwnerNumber = ['918279975767']
+global.ownertag = ['918279975767']
 global.BotName = "Anya❤️"
 global.packname = "Anya bot"
-global.author = "By: Pika❤️"
-global.OwnerName = "3.69_pika"
+global.author = "By: Bajrang❤️"
+global.OwnerName = "Bajrang"
 global.BotSourceCode = "https://github.com/Pika4O4/Anya-pika"
 global.SupportGroupLink = "https://chat.whatsapp.com/H6CUtq40oRDKIofIEbf1qEl"
 global.sessionName = "session"
@@ -23,11 +23,11 @@ global.sessionName = "session"
 global.prefa = ['-'] 
 
 
-global.location = "Assam, India"
+global.location = "Uttarakhand, India"
 global.reactmoji = "❤️"
 global.themeemoji = "💖"
 global.vidmenu = { url: 'https://c.tenor.com/YGuLegQWubwAAAPo/miku-nakano-gotoubun-no-hanayome.mp4' }
-global.websitex = "https://github.com/FantoX001"
+global.websitex = "https://github.com/Bajrang11yt"
 global.lolhuman = "KaysaS"
 
 
