@@ -1,7 +1,6 @@
 <p align="center">
-   <a href= "https://github.com/Pika4O4">
- 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=A020F0&lines=Hiyori By Bajrang+❤️)]
+   <a href= "https://github.com/PikaBotz/Anya-pika-MD-v2">
+
    
 </p>
 <h1 align="center"> Hiyori by Bajrang❤️
