@@ -6,7 +6,7 @@
 <h1 align="center"> Hiyori by Bajrang❤️
 </h1>
 <p align="center"> 
-  Hello Darling ✨, I am "Hiyori" a WhatsApp bot made by Pika to do everything that is possible on WhatsApp based on WhatsApp Multi Device(MD) Support.
+  Hello Darling ✨, I am "Hiyori" a WhatsApp bot made by Bajrang/Pika to do everything that is possible on WhatsApp based on WhatsApp Multi Device(MD) Support.
 
 <p align="center">
   <a href="https://github.com//Anya-pika/fork">
